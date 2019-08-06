@@ -1,0 +1,216 @@
+** Message: 08:54:28.194: environement.vala:58: Exporting primary_variable
+** Message: 08:54:28.194: environement.vala:59: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 08:54:28.194: environement.vala:177: custom_config :/etc/xdg/lubuntu:
+** Message: 08:54:28.194: environement.vala:178: config_dirs :/etc/xdg/xdg-Lubuntu:/etc/xdg
+** Message: 08:54:28.194: environement.vala:179: confir_dirs not null, export : /etc/xdg/lubuntu:/etc/xdg/xdg-Lubuntu:/etc/xdg
+** Message: 08:54:28.194: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 08:54:28.194: environement.vala:218: custom_data :/etc/xdg/lubuntu:/usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:
+** Message: 08:54:28.194: environement.vala:219: data_dirs :/usr/share/Lubuntu:/usr/local/share/:/usr/share/
+** Message: 08:54:28.194: environement.vala:220: data_dirs not null, export : /etc/xdg/lubuntu:/usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/share/Lubuntu:/usr/local/share/:/usr/share/
+** Message: 08:54:28.194: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 08:54:28.211: utils.vala:68: User config used : /home/jabcullo/.config/lxsession/Lubuntu/desktop.conf
+** Message: 08:54:28.211: utils.vala:89: Final file used : /home/jabcullo/.config/lxsession/Lubuntu/desktop.conf
+** Message: 08:54:28.216: settings.vala:540: Key file does not have key “iGtk/ColorScheme” in group “GTK”
+** Message: 08:54:28.216: settings.vala:540: Key file does not have key “dock/command” in group “Session”
+** Message: 08:54:28.216: settings.vala:540: Key file does not have key “im2/command” in group “Session”
+** Message: 08:54:28.216: settings.vala:540: Key file does not have key “widget1/command” in group “Session”
+** Message: 08:54:28.216: settings.vala:540: Key file does not have key “notification/command” in group “Session”
+** Message: 08:54:28.216: settings.vala:540: Key file does not have key “keybindings/command” in group “Session”
+** Message: 08:54:28.216: settings.vala:540: Key file does not have key “im_manager/command” in group “Session”
+** Message: 08:54:28.216: settings.vala:540: Key file does not have key “message_manager/command” in group “Session”
+** Message: 08:54:28.216: settings.vala:540: Key file does not have key “updates_manager/command” in group “Session”
+** Message: 08:54:28.216: settings.vala:540: Key file does not have key “updates_manager/timeout” in group “Session”
+** Message: 08:54:28.217: settings.vala:540: Key file does not have key “crash_manager/command” in group “Session”
+** Message: 08:54:28.217: settings.vala:540: Key file does not have key “crash_manager/dev_mode” in group “Session”
+** Message: 08:54:28.217: settings.vala:540: Key file does not have key “crash_manager/timeout” in group “Session”
+** Message: 08:54:28.217: settings.vala:540: Key file does not have key “proxy_manager/http” in group “Session”
+** Message: 08:54:28.217: settings.vala:540: Key file does not have key “a11y/command” in group “Session”
+** Message: 08:54:28.217: settings.vala:540: Key file does not have key “xrandr/command” in group “Session”
+** Message: 08:54:28.217: settings.vala:540: Key file does not have key “charmap/command” in group “Session”
+** Message: 08:54:28.218: settings.vala:462: Monitoring: /home/jabcullo/.config/lxsession/Lubuntu/desktop.conf
+** Message: 08:54:28.218: settings.vala:466: Desktop file is already in config home, do nothing
+** Message: 08:54:28.218: environement.vala:79: Exporting variable
+** Message: 08:54:28.218: environement.vala:80: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 08:54:28.218: environement.vala:177: custom_config :
+** Message: 08:54:28.218: environement.vala:178: config_dirs :/etc/xdg/lubuntu:/etc/xdg/xdg-Lubuntu:/etc/xdg
+** Message: 08:54:28.218: environement.vala:179: confir_dirs not null, export : /etc/xdg/lubuntu:/etc/xdg/xdg-Lubuntu:/etc/xdg
+** Message: 08:54:28.218: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 08:54:28.218: environement.vala:218: custom_data :
+** Message: 08:54:28.218: environement.vala:219: data_dirs :/etc/xdg/lubuntu:/usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/share/Lubuntu:/usr/local/share/:/usr/share/
+** Message: 08:54:28.218: environement.vala:220: data_dirs not null, export : /etc/xdg/lubuntu:/usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/share/Lubuntu:/usr/local/share/:/usr/share/
+** Message: 08:54:28.218: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 08:54:28.218: utils.vala:68: User config used : /home/jabcullo/.config/lxsession/Lubuntu/desktop.conf
+** Message: 08:54:28.218: utils.vala:89: Final file used : /home/jabcullo/.config/lxsession/Lubuntu/desktop.conf
+** Message: 08:54:28.218: environement.vala:254: No entry in [Environment_variable]. Key file does not have group “Environment_variable”
+** Message: 08:54:28.224: utils.vala:79: Config system location : /etc/xdg/xdg-Lubuntu/lxsession/Lubuntu
+xprop:  no such property "_NET_NUMBER_OF_DESKTOPS"
+xprop:  no such property "_NET_DESKTOP_NAMES"
+** Message: 08:54:28.226: utils.vala:79: Config system location : /etc/xdg/lxsession/Lubuntu
+** Message: 08:54:28.227: utils.vala:85: System system path location : /etc/xdg/lxsession/Lubuntu/conffiles.conf
+** Message: 08:54:28.227: utils.vala:89: Final file used : /etc/xdg/lxsession/Lubuntu/conffiles.conf
+** Message: 08:54:28.232: options.vala:164: Activate xsettings_manager build-in
+** Message: 08:54:28.232: utils.vala:68: User config used : /home/jabcullo/.config/lxsession/Lubuntu/desktop.conf
+** Message: 08:54:28.232: utils.vala:89: Final file used : /home/jabcullo/.config/lxsession/Lubuntu/desktop.conf
+** Message: 08:54:28.257: app.vala:76: Launching lxpanel 
+
+** (lxsession:740): WARNING **: 08:54:28.259: app.vala:86: Failed to execute child process “dhcpcd-gtk” (No such file or directory)
+
+** (lxsession:740): WARNING **: 08:54:28.259: app.vala:87: Error when launching dhcpcd-gtk
+** Message: 08:54:28.271: app.vala:76: Launching pcmanfm 
+** Message: 08:54:28.271: app.vala:721: polkit separate
+** Message: 08:54:28.272: app.vala:721: polkit separate
+** Message: 08:54:28.279: app.vala:76: Launching lxpolkit 
+** Message: 08:54:28.279: utils.vala:68: User config used : /home/jabcullo/.config/lxsession/Lubuntu/autostart
+** Message: 08:54:28.279: utils.vala:89: Final file used : /home/jabcullo/.config/lxsession/Lubuntu/autostart
+** Message: 08:54:28.279: autostart.vala:42: Autostart path : /home/jabcullo/.config/lxsession/Lubuntu/autostart
+** Message: 08:54:28.287: options.vala:107: Create build-in Clipboard
+** Message: 08:54:28.287: main.vala:442: Check keymap_mode system
+** Message: 08:54:28.287: main.vala:445: Create Option Keymap
+** Message: 08:54:28.290: app.vala:76: Launching /usr/bin/ssh-agent 
+SSH_AUTH_SOCK=/tmp/ssh-A0Jdy01yPI3Z/agent.831; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=833; export SSH_AGENT_PID;
+echo Agent pid 833;
+** Message: 08:54:28.523: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
+
+(update-notifier:837): dbind-WARNING **: 08:54:28.688: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(light-locker:858): dbind-WARNING **: 08:54:28.911: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(livepatch-notification:866): dbind-WARNING **: 08:54:29.114: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(nm-applet:848): dbind-WARNING **: 08:54:29.142: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+Openbox-Message: Requested key "XF86Terminal" does not exist on the display
+** Message: 08:54:30.564: bt: Name org.bluez unowned on DBus
+
+(nm-applet:848): Gtk-WARNING **: 08:54:30.765: Can't set a parent on widget which has a parent
+
+(lxpanel:826): Gtk-CRITICAL **: 08:54:30.879: IA__gtk_image_get_pixbuf: assertion 'image->storage_type == GTK_IMAGE_PIXBUF || image->storage_type == GTK_IMAGE_EMPTY' failed
+
+(lxpanel:826): Gtk-CRITICAL **: 08:54:30.890: IA__gtk_image_get_pixbuf: assertion 'image->storage_type == GTK_IMAGE_PIXBUF || image->storage_type == GTK_IMAGE_EMPTY' failed
+
+(lxpanel:826): libindicator-WARNING **: 08:54:30.898: IndicatorObject class does not have an accessible description.
+
+(nm-applet:848): Gdk-CRITICAL **: 08:54:31.016: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+terminal
+
+Launching terminal manager
+** Message: 08:54:32.332: dbus-lxde-session.vala:796: Start Terminal Manager
+** Message: 08:54:32.340: app.vala:76: Launching x-terminal-emulator 
+
+(x-terminal-emulator:964): dbind-WARNING **: 08:54:32.428: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(x-terminal-emulator:964): Vte-WARNING **: 08:54:32.821: (../../src/vtegtk.cc:1906):int vte_terminal_match_add_gregex(VteTerminal*, GRegex*, GRegexMatchFlags): runtime check failed: (g_regex_get_compile_flags(gregex) & G_REGEX_MULTILINE)
+
+(x-terminal-emulator:964): Vte-WARNING **: 08:54:32.821: (../../src/vtegtk.cc:1906):int vte_terminal_match_add_gregex(VteTerminal*, GRegex*, GRegexMatchFlags): runtime check failed: (g_regex_get_compile_flags(gregex) & G_REGEX_MULTILINE)
+
+(lxpanel:826): Wnck-WARNING **: 08:54:33.105: Unhandled action type _OB_WM_ACTION_UNDECORATE
+** Message: 08:55:14.381: app.vala:130: x-terminal-emulator exit with this type of exit: 0
+terminal
+
+Launching terminal manager
+** Message: 08:55:14.911: dbus-lxde-session.vala:796: Start Terminal Manager
+** Message: 08:55:14.917: app.vala:76: Launching x-terminal-emulator 
+
+(x-terminal-emulator:1008): dbind-WARNING **: 08:55:14.966: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(x-terminal-emulator:1008): Vte-WARNING **: 08:55:15.119: (../../src/vtegtk.cc:1906):int vte_terminal_match_add_gregex(VteTerminal*, GRegex*, GRegexMatchFlags): runtime check failed: (g_regex_get_compile_flags(gregex) & G_REGEX_MULTILINE)
+
+(x-terminal-emulator:1008): Vte-WARNING **: 08:55:15.119: (../../src/vtegtk.cc:1906):int vte_terminal_match_add_gregex(VteTerminal*, GRegex*, GRegexMatchFlags): runtime check failed: (g_regex_get_compile_flags(gregex) & G_REGEX_MULTILINE)
+
+(lxpanel:826): Wnck-WARNING **: 08:55:15.328: Unhandled action type _OB_WM_ACTION_UNDECORATE
+** Message: 08:55:38.668: app.vala:130: x-terminal-emulator exit with this type of exit: 0
+terminal
+
+Launching terminal manager
+** Message: 08:55:39.903: dbus-lxde-session.vala:796: Start Terminal Manager
+** Message: 08:55:39.908: app.vala:76: Launching x-terminal-emulator 
+
+(x-terminal-emulator:1024): dbind-WARNING **: 08:55:39.956: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(x-terminal-emulator:1024): Vte-WARNING **: 08:55:40.106: (../../src/vtegtk.cc:1906):int vte_terminal_match_add_gregex(VteTerminal*, GRegex*, GRegexMatchFlags): runtime check failed: (g_regex_get_compile_flags(gregex) & G_REGEX_MULTILINE)
+
+(x-terminal-emulator:1024): Vte-WARNING **: 08:55:40.106: (../../src/vtegtk.cc:1906):int vte_terminal_match_add_gregex(VteTerminal*, GRegex*, GRegexMatchFlags): runtime check failed: (g_regex_get_compile_flags(gregex) & G_REGEX_MULTILINE)
+
+(lxpanel:826): Wnck-WARNING **: 08:55:40.307: Unhandled action type _OB_WM_ACTION_UNDECORATE
+** Message: 08:57:25.859: app.vala:130: x-terminal-emulator exit with this type of exit: 0
+terminal
+
+Launching terminal manager
+** Message: 08:57:26.671: dbus-lxde-session.vala:796: Start Terminal Manager
+** Message: 08:57:26.677: app.vala:76: Launching x-terminal-emulator 
+
+(x-terminal-emulator:1039): dbind-WARNING **: 08:57:26.725: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(x-terminal-emulator:1039): Vte-WARNING **: 08:57:26.876: (../../src/vtegtk.cc:1906):int vte_terminal_match_add_gregex(VteTerminal*, GRegex*, GRegexMatchFlags): runtime check failed: (g_regex_get_compile_flags(gregex) & G_REGEX_MULTILINE)
+
+(x-terminal-emulator:1039): Vte-WARNING **: 08:57:26.876: (../../src/vtegtk.cc:1906):int vte_terminal_match_add_gregex(VteTerminal*, GRegex*, GRegexMatchFlags): runtime check failed: (g_regex_get_compile_flags(gregex) & G_REGEX_MULTILINE)
+
+(lxpanel:826): Wnck-WARNING **: 08:57:27.084: Unhandled action type _OB_WM_ACTION_UNDECORATE
+** Message: 08:59:58.840: app.vala:130: x-terminal-emulator exit with this type of exit: 0
+terminal
+
+Launching terminal manager
+** Message: 09:00:00.040: dbus-lxde-session.vala:796: Start Terminal Manager
+** Message: 09:00:00.043: app.vala:76: Launching x-terminal-emulator 
+
+(x-terminal-emulator:1067): dbind-WARNING **: 09:00:00.090: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(x-terminal-emulator:1067): Vte-WARNING **: 09:00:00.241: (../../src/vtegtk.cc:1906):int vte_terminal_match_add_gregex(VteTerminal*, GRegex*, GRegexMatchFlags): runtime check failed: (g_regex_get_compile_flags(gregex) & G_REGEX_MULTILINE)
+
+(x-terminal-emulator:1067): Vte-WARNING **: 09:00:00.241: (../../src/vtegtk.cc:1906):int vte_terminal_match_add_gregex(VteTerminal*, GRegex*, GRegexMatchFlags): runtime check failed: (g_regex_get_compile_flags(gregex) & G_REGEX_MULTILINE)
+
+(lxpanel:826): Wnck-WARNING **: 09:00:00.442: Unhandled action type _OB_WM_ACTION_UNDECORATE
+** Message: 09:02:36.043: app.vala:130: x-terminal-emulator exit with this type of exit: 0
+terminal
+
+Launching terminal manager
+** Message: 09:02:36.760: dbus-lxde-session.vala:796: Start Terminal Manager
+** Message: 09:02:36.763: app.vala:76: Launching x-terminal-emulator 
+
+(x-terminal-emulator:1085): dbind-WARNING **: 09:02:36.809: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(x-terminal-emulator:1085): Vte-WARNING **: 09:02:36.962: (../../src/vtegtk.cc:1906):int vte_terminal_match_add_gregex(VteTerminal*, GRegex*, GRegexMatchFlags): runtime check failed: (g_regex_get_compile_flags(gregex) & G_REGEX_MULTILINE)
+
+(x-terminal-emulator:1085): Vte-WARNING **: 09:02:36.962: (../../src/vtegtk.cc:1906):int vte_terminal_match_add_gregex(VteTerminal*, GRegex*, GRegexMatchFlags): runtime check failed: (g_regex_get_compile_flags(gregex) & G_REGEX_MULTILINE)
+
+(lxpanel:826): Wnck-WARNING **: 09:02:37.159: Unhandled action type _OB_WM_ACTION_UNDECORATE
+** Message: 09:02:44.730: app.vala:130: x-terminal-emulator exit with this type of exit: 0
+
+(pcmanfm:828): GLib-GIO-CRITICAL **: 09:02:56.696: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+terminal
+
+Launching terminal manager
+** Message: 09:02:57.016: dbus-lxde-session.vala:796: Start Terminal Manager
+** Message: 09:02:57.019: app.vala:76: Launching x-terminal-emulator 
+
+(x-terminal-emulator:1105): dbind-WARNING **: 09:02:57.065: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(x-terminal-emulator:1105): Vte-WARNING **: 09:02:57.217: (../../src/vtegtk.cc:1906):int vte_terminal_match_add_gregex(VteTerminal*, GRegex*, GRegexMatchFlags): runtime check failed: (g_regex_get_compile_flags(gregex) & G_REGEX_MULTILINE)
+
+(x-terminal-emulator:1105): Vte-WARNING **: 09:02:57.217: (../../src/vtegtk.cc:1906):int vte_terminal_match_add_gregex(VteTerminal*, GRegex*, GRegexMatchFlags): runtime check failed: (g_regex_get_compile_flags(gregex) & G_REGEX_MULTILINE)
+
+(lxpanel:826): Wnck-WARNING **: 09:02:57.420: Unhandled action type _OB_WM_ACTION_UNDECORATE
+** Message: 09:03:28.355: app.vala:130: x-terminal-emulator exit with this type of exit: 0
+terminal
+
+Launching terminal manager
+** Message: 09:04:19.772: dbus-lxde-session.vala:796: Start Terminal Manager
+** Message: 09:04:19.778: app.vala:76: Launching x-terminal-emulator 
+
+(x-terminal-emulator:1123): dbind-WARNING **: 09:04:19.826: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(x-terminal-emulator:1123): Vte-WARNING **: 09:04:19.979: (../../src/vtegtk.cc:1906):int vte_terminal_match_add_gregex(VteTerminal*, GRegex*, GRegexMatchFlags): runtime check failed: (g_regex_get_compile_flags(gregex) & G_REGEX_MULTILINE)
+
+(x-terminal-emulator:1123): Vte-WARNING **: 09:04:19.979: (../../src/vtegtk.cc:1906):int vte_terminal_match_add_gregex(VteTerminal*, GRegex*, GRegexMatchFlags): runtime check failed: (g_regex_get_compile_flags(gregex) & G_REGEX_MULTILINE)
+
+(lxpanel:826): Wnck-WARNING **: 09:04:20.180: Unhandled action type _OB_WM_ACTION_UNDECORATE
+launcher
+
+Launching launcher manager
+** Message: 09:07:05.585: dbus-lxde-session.vala:776: Start Launcher Manager
+** Message: 09:07:05.595: app.vala:76: Launching lxpanelctl 
+** Message: 09:07:05.606: app.vala:130: lxpanelctl exit with this type of exit: 0
+
+(lxpanel:826): GLib-GIO-CRITICAL **: 09:07:05.787: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(lxpanel:826): Wnck-WARNING **: 09:07:05.883: Unhandled action type _OB_WM_ACTION_UNDECORATE
